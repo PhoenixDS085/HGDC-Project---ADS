@@ -1,4 +1,3 @@
-```cpp
 #include <SoftwareSerial.h>
 
 // Comandos
@@ -95,5 +94,3 @@ void executeCommand(char command) {
       break;
   }
 }
-
-```
